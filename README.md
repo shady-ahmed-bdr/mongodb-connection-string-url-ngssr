@@ -1,6 +1,6 @@
 # mongodb-connection-string-url-ngssr
 
-install the package by in serprate folder and copy the json object 
+copy the json object back to  your `package-lock.json` file
 
 ```json
 
