@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-connection-string-url-ngssr",
+  "name": "mongodb-connection-string-url",
   "version": "1.0.0",
   "description": "alternate for mongodb-connection-string-url-ngssr",
   "main": "lib/index.js",
