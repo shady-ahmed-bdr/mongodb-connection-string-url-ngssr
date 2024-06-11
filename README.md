@@ -1,6 +1,6 @@
 # mongodb-connection-string-url-ngssr
 
-install the package by in serprate folder and copy the json object \
+copy the json object back to  your `package-lock.json` file and replace it with  `"node_modules/mongodb-connection-string-url"`
 
 ```json
 
@@ -16,4 +16,3 @@ install the package by in serprate folder and copy the json object \
 }
 
 ```
-copy it back to your package-lock.json in your WORKING FOLDER 
