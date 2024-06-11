@@ -1,6 +1,6 @@
 # mongodb-connection-string-url-ngssr
 
-copy the json object back to  your `package-lock.json` file
+copy the json object back to  your `package-lock.json` file and replace it with  `"node_modules/mongodb-connection-string-url"`
 
 ```json
 
